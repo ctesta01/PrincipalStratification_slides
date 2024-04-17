@@ -25,7 +25,7 @@ we're restricting our analysis to the *compliers*.
 
 See the slides for more detail!  Here's some a few highlighted slides to be more enticing: 
 
-[[Screenshot of Slide 19](slide19.png)](BST_258_Presentation_Testa_Chen_Guo.pdf)
+[![Screenshot of Slide 19](slide19.png)](BST_258_Presentation_Testa_Chen_Guo.pdf)
 
 [![Screenshot of Slide 22](slide22.png)](BST_258_Presentation_Testa_Chen_Guo.pdf)
 
