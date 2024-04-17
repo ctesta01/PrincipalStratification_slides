@@ -1,8 +1,8 @@
 # Presentation Slides on Principal Stratification 
 
-Tuesday April 16th, 2024
+Talk given Tuesday April 16th, 2024
 
-![Screenshot of Slide 2](slide2.png)
+[![Screenshot of Slide 2](slide2.png)](BST_258_Presentation_Testa_Chen_Guo.pdf)
 
 Principal Stratification is an approach proposed by Frangakis and Rubin (2002) to improve on methods for 
 adjusting for intermediate variables. Broadly speaking, these intermediate variables can play several 
@@ -25,11 +25,9 @@ we're restricting our analysis to the *compliers*.
 
 See the slides for more detail!  Here's some a few highlighted slides to be more enticing: 
 
-![Screenshot of Slide 19](slide19.png)
+[[Screenshot of Slide 19](slide19.png)](BST_258_Presentation_Testa_Chen_Guo.pdf)
 
+[![Screenshot of Slide 22](slide22.png)](BST_258_Presentation_Testa_Chen_Guo.pdf)
 
-![Screenshot of Slide 22](slide22.png)
-
-
-![Screenshot of Slide 44](slide44.png)
+[![Screenshot of Slide 44](slide44.png)](BST_258_Presentation_Testa_Chen_Guo.pdf)
 
